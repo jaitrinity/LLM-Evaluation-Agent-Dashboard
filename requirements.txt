@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pymupdf
+faiss-cpu
+sentence-transformers
+scikit-learn
+nltk
+rouge-score
+openai
+pandas
